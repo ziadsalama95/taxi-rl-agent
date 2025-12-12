@@ -1,0 +1,38 @@
+2025-12-12 18:06:48 | INFO     | src.environment | Initialized Taxi Environment: states=500, actions=6
+2025-12-12 18:06:48 | INFO     | src.agent | Initialized Q-Learning Agent: states=500, actions=6, lr=0.1, gamma=0.99
+2025-12-12 18:06:48 | INFO     | src.trainer | Initialized Trainer for 10000 episodes
+2025-12-12 18:06:48 | INFO     | src.trainer | Starting training...
+2025-12-12 18:06:49 | INFO     | src.trainer | Episode    500/10000 | Avg Reward:  -84.50 | Avg Length:   80.5 | Success:  95.0% | Epsilon: 0.0816 | Time:    1.2s
+2025-12-12 18:06:49 | INFO     | src.trainer | Episode   1000/10000 | Avg Reward:   -2.66 | Avg Length:   23.1 | Success: 100.0% | Epsilon: 0.0100 | Time:    1.5s
+2025-12-12 18:06:49 | INFO     | src.agent | Saved Q-table to models\q_table_episode_1000.npy
+2025-12-12 18:06:49 | INFO     | src.trainer | Episode   1500/10000 | Avg Reward:    5.31 | Avg Length:   15.2 | Success: 100.0% | Epsilon: 0.0100 | Time:    1.6s
+2025-12-12 18:06:49 | INFO     | src.trainer | Episode   2000/10000 | Avg Reward:    8.21 | Avg Length:   12.8 | Success: 100.0% | Epsilon: 0.0100 | Time:    1.7s
+2025-12-12 18:06:49 | INFO     | src.agent | Saved Q-table to models\q_table_episode_2000.npy
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   2500/10000 | Avg Reward:    7.29 | Avg Length:   13.4 | Success: 100.0% | Epsilon: 0.0100 | Time:    1.8s
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   3000/10000 | Avg Reward:    7.97 | Avg Length:   12.8 | Success: 100.0% | Epsilon: 0.0100 | Time:    1.9s
+2025-12-12 18:06:50 | INFO     | src.agent | Saved Q-table to models\q_table_episode_3000.npy
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   3500/10000 | Avg Reward:    7.13 | Avg Length:   13.2 | Success: 100.0% | Epsilon: 0.0100 | Time:    2.1s
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   4000/10000 | Avg Reward:    8.07 | Avg Length:   12.8 | Success: 100.0% | Epsilon: 0.0100 | Time:    2.2s
+2025-12-12 18:06:50 | INFO     | src.agent | Saved Q-table to models\q_table_episode_4000.npy
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   4500/10000 | Avg Reward:    7.70 | Avg Length:   13.0 | Success: 100.0% | Epsilon: 0.0100 | Time:    2.3s
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   5000/10000 | Avg Reward:    7.69 | Avg Length:   12.9 | Success: 100.0% | Epsilon: 0.0100 | Time:    2.4s
+2025-12-12 18:06:50 | INFO     | src.agent | Saved Q-table to models\q_table_episode_5000.npy
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   5500/10000 | Avg Reward:    7.65 | Avg Length:   13.3 | Success: 100.0% | Epsilon: 0.0100 | Time:    2.5s
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   6000/10000 | Avg Reward:    7.14 | Avg Length:   13.4 | Success: 100.0% | Epsilon: 0.0100 | Time:    2.6s
+2025-12-12 18:06:50 | INFO     | src.agent | Saved Q-table to models\q_table_episode_6000.npy
+2025-12-12 18:06:50 | INFO     | src.trainer | Episode   6500/10000 | Avg Reward:    7.12 | Avg Length:   13.4 | Success: 100.0% | Epsilon: 0.0100 | Time:    2.7s
+2025-12-12 18:06:51 | INFO     | src.trainer | Episode   7000/10000 | Avg Reward:    7.35 | Avg Length:   13.6 | Success: 100.0% | Epsilon: 0.0100 | Time:    2.8s
+2025-12-12 18:06:51 | INFO     | src.agent | Saved Q-table to models\q_table_episode_7000.npy
+2025-12-12 18:06:51 | INFO     | src.trainer | Episode   7500/10000 | Avg Reward:    7.44 | Avg Length:   13.2 | Success: 100.0% | Epsilon: 0.0100 | Time:    3.0s
+2025-12-12 18:06:51 | INFO     | src.trainer | Episode   8000/10000 | Avg Reward:    7.43 | Avg Length:   13.3 | Success: 100.0% | Epsilon: 0.0100 | Time:    3.1s
+2025-12-12 18:06:51 | INFO     | src.agent | Saved Q-table to models\q_table_episode_8000.npy
+2025-12-12 18:06:51 | INFO     | src.trainer | Episode   8500/10000 | Avg Reward:    6.93 | Avg Length:   13.4 | Success: 100.0% | Epsilon: 0.0100 | Time:    3.2s
+2025-12-12 18:06:51 | INFO     | src.trainer | Episode   9000/10000 | Avg Reward:    7.05 | Avg Length:   13.6 | Success: 100.0% | Epsilon: 0.0100 | Time:    3.3s
+2025-12-12 18:06:51 | INFO     | src.agent | Saved Q-table to models\q_table_episode_9000.npy
+2025-12-12 18:06:51 | INFO     | src.trainer | Episode   9500/10000 | Avg Reward:    7.06 | Avg Length:   13.4 | Success: 100.0% | Epsilon: 0.0100 | Time:    3.4s
+2025-12-12 18:06:51 | INFO     | src.trainer | Episode  10000/10000 | Avg Reward:    8.07 | Avg Length:   12.8 | Success: 100.0% | Epsilon: 0.0100 | Time:    3.5s
+2025-12-12 18:06:51 | INFO     | src.agent | Saved Q-table to models\q_table_episode_10000.npy
+2025-12-12 18:06:51 | INFO     | src.agent | Saved Q-table to models\q_table_final.npy
+2025-12-12 18:06:51 | INFO     | root | Saved metrics to logs\training_metrics.csv
+2025-12-12 18:06:52 | INFO     | root | Saved training curves to logs\training_curves.png
+2025-12-12 18:06:52 | INFO     | src.trainer | Training completed in 4.68 seconds

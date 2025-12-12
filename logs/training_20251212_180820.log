@@ -1,0 +1,4 @@
+2025-12-12 18:08:20 | INFO     | src.environment | Initialized Taxi Environment: states=500, actions=6
+2025-12-12 18:08:20 | INFO     | src.agent | Initialized Q-Learning Agent: states=500, actions=6, lr=0.1, gamma=0.99
+2025-12-12 18:08:20 | INFO     | src.agent | Loaded Q-table from models/q_table_final.npy
+2025-12-12 18:08:20 | INFO     | src.evaluator | Initialized Evaluator for 100 episodes
